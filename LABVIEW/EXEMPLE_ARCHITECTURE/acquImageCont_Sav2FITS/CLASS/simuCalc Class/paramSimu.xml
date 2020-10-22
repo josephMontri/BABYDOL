@@ -1,0 +1,24 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0f1</Version>
+<Cluster>
+<Name>Cluster of class private data</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>ROI</Name>
+<NumElts>2</NumElts>
+<I32>
+<Name>nbrCol</Name>
+<Val>70</Val>
+</I32>
+<I32>
+<Name>nbrlign</Name>
+<Val>140</Val>
+</I32>
+</Cluster>
+<String>
+<Name>typeSimu</Name>
+<Val>Random</Val>
+</String>
+</Cluster>
+</LVData>

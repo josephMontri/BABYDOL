@@ -1,0 +1,84 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0</Version>
+<Cluster>
+<Name>Settings in</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Logging Configuration</Name>
+<NumElts>2</NumElts>
+<Path>
+<Name>Log File Base Path</Name>
+<Val>D:\DATA\20201009\data.fits</Val>
+</Path>
+<I32>
+<Name>NbrIma</Name>
+<Val>256</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>camera</Name>
+<NumElts>5</NumElts>
+<Object>
+<Name>Camera.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>Camera.lvclass</Class>
+<Version>0.0.0.0</Version>
+</Object>
+<Cluster>
+<Name>InClusTiming 2</Name>
+<NumElts>5</NumElts>
+<I32>
+<Name>Pixelclock</Name>
+<Val>0</Val>
+</I32>
+<DBL>
+<Name>Exposure</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<U16>
+<Name>ExposureTimeBase</Name>
+<Val>0</Val>
+</U16>
+<DBL>
+<Name>Framerate</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<U16>
+<Name>TriggerMode</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>ROI</Name>
+<NumElts>4</NumElts>
+<I32>
+<Name>PosX</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>PosY</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Width</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Height</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Path>
+<Name>File Path Control</Name>
+<Val>D:\USERS\CHERUBINO\EXEMPLE_ARCHITECTURE\CONFIG\config.ini</Val>
+</Path>
+<Object>
+<Name>mirror.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>mirror.lvclass</Class>
+<Version>0.0.0.0</Version>
+</Object>
+</Cluster>
+</Cluster>
+</LVData>
