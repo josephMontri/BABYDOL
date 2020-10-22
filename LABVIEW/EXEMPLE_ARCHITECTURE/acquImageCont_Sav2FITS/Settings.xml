@@ -9,7 +9,7 @@
 <NumElts>2</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
-<Val>D:\DATA\20201009\data.fits</Val>
+<Val>D:\DATA\20201022\test.fits</Val>
 </Path>
 <I32>
 <Name>NbrIma</Name>
@@ -71,7 +71,7 @@
 </Cluster>
 <Path>
 <Name>File Path Control</Name>
-<Val>D:\USERS\CHERUBINO\EXEMPLE_ARCHITECTURE\CONFIG\config.ini</Val>
+<Val>D:\LOGICIELS\BABYDOL\LABVIEW\EXEMPLE_ARCHITECTURE\CONFIG\config.ini</Val>
 </Path>
 <Object>
 <Name>mirror.lvclass</Name>
